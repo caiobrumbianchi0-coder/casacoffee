@@ -1,5 +1,12 @@
 import type { Category } from '@/lib/types';
 import RecipeCard from './recipe-card';
+import {
+  Carousel,
+  CarouselContent,
+  CarouselItem,
+  CarouselNext,
+  CarouselPrevious,
+} from '@/components/ui/carousel';
 
 interface CategoryRowProps {
   category: Category;
@@ -18,13 +25,23 @@ export default function CategoryRow({ category }: CategoryRowProps) {
           {category.name}
         </h2>
       </div>
-      <div className="relative">
-        <div className="flex space-x-4 overflow-x-auto pb-4 -mb-4">
-          {category.recipes.map(recipe => (
-            <RecipeCard key={recipe.id} recipe={recipe} />
+      <Carousel
+        opts={{
+          align: 'start',
+          dragFree: true,
+        }}
+        className="w-full"
+      >
+        <CarouselContent className="-ml-4">
+          {category.recipes.map((recipe, index) => (
+            <CarouselItem key={index} className="pl-4 basis-auto">
+              <RecipeCard recipe={recipe} />
+            </CarouselItem>
           ))}
-        </div>
-      </div>
+        </CarouselContent>
+        <CarouselPrevious className="absolute left-[-1.5rem] top-1/2 -translate-y-1/2" />
+        <CarouselNext className="absolute right-[-1.5rem] top-1/2 -translate-y-1/2" />
+      </Carousel>
     </section>
   );
 }
