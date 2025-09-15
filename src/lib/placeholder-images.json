@@ -1,3 +1,124 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "cappuccino-tradicional",
+      "description": "Classic cappuccino with latte art.",
+      "imageUrl": "https://picsum.photos/seed/1/600/400",
+      "imageHint": "cappuccino latte"
+    },
+    {
+      "id": "espresso-macchiato",
+      "description": "An espresso macchiato in a small glass.",
+      "imageUrl": "https://picsum.photos/seed/2/600/400",
+      "imageHint": "espresso macchiato"
+    },
+    {
+      "id": "iced-latte",
+      "description": "A refreshing iced latte in a tall glass.",
+      "imageUrl": "https://picsum.photos/seed/3/600/400",
+      "imageHint": "iced latte"
+    },
+    {
+      "id": "cold-brew",
+      "description": "Smooth cold brew coffee.",
+      "imageUrl": "https://picsum.photos/seed/4/600/400",
+      "imageHint": "cold brew"
+    },
+    {
+      "id": "flat-white",
+      "description": "A creamy flat white coffee.",
+      "imageUrl": "https://picsum.photos/seed/5/600/400",
+      "imageHint": "flat white"
+    },
+    {
+      "id": "cafe-au-lait",
+      "description": "A French style cafe au lait.",
+      "imageUrl": "https://picsum.photos/seed/6/600/400",
+      "imageHint": "cafe au lait"
+    },
+    {
+      "id": "creme-de-cafe",
+      "description": "A rich coffee cream spread.",
+      "imageUrl": "https://picsum.photos/seed/7/600/400",
+      "imageHint": "coffee cream"
+    },
+    {
+      "id": "pasta-de-amendoim-com-cafe",
+      "description": "Peanut butter with a coffee twist.",
+      "imageUrl": "https://picsum.photos/seed/8/600/400",
+      "imageHint": "peanut butter"
+    },
+    {
+      "id": "cafe-com-canela-e-cardamomo",
+      "description": "Gourmet coffee with spices.",
+      "imageUrl": "https://picsum.photos/seed/9/600/400",
+      "imageHint": "spiced coffee"
+    },
+    {
+      "id": "latte-de-lavanda",
+      "description": "A unique lavender-infused latte.",
+      "imageUrl": "https://picsum.photos/seed/10/600/400",
+      "imageHint": "lavender latte"
+    },
+    {
+      "id": "tiramisu-classico",
+      "description": "Classic Italian tiramisu dessert.",
+      "imageUrl": "https://picsum.photos/seed/11/600/400",
+      "imageHint": "tiramisu dessert"
+    },
+    {
+      "id": "mousse-de-cafe",
+      "description": "A light and airy coffee mousse.",
+      "imageUrl": "https://picsum.photos/seed/12/600/400",
+      "imageHint": "coffee mousse"
+    },
+    {
+      "id": "bolo-de-cafe-com-nozes",
+      "description": "A delicious coffee and walnut cake.",
+      "imageUrl": "https://picsum.photos/seed/13/600/400",
+      "imageHint": "coffee cake"
+    },
+    {
+      "id": "torta-holandesa-de-cafe",
+      "description": "A dutch pie with coffee flavor.",
+      "imageUrl": "https://picsum.photos/seed/14/600/400",
+      "imageHint": "coffee pie"
+    },
+    {
+      "id": "risoto-de-cafe",
+      "description": "A savory risotto with a hint of coffee.",
+      "imageUrl": "https://picsum.photos/seed/15/600/400",
+      "imageHint": "savory risotto"
+    },
+    {
+      "id": "molho-barbecue-de-cafe",
+      "description": "Coffee-infused barbecue sauce.",
+      "imageUrl": "https://picsum.photos/seed/16/600/400",
+      "imageHint": "barbecue sauce"
+    },
+    {
+      "id": "smoothie-de-cafe-e-banana",
+      "description": "A healthy coffee and banana smoothie.",
+      "imageUrl": "https://picsum.photos/seed/17/600/400",
+      "imageHint": "coffee smoothie"
+    },
+    {
+      "id": "proteina-gelada-com-cafe",
+      "description": "A post-workout protein coffee shake.",
+      "imageUrl": "https://picsum.photos/seed/18/600/400",
+      "imageHint": "protein shake"
+    },
+    {
+      "id": "espresso-martini",
+      "description": "A classic espresso martini cocktail.",
+      "imageUrl": "https://picsum.photos/seed/19/600/400",
+      "imageHint": "espresso martini"
+    },
+    {
+      "id": "irish-coffee",
+      "description": "A warm and boozy Irish coffee.",
+      "imageUrl": "https://picsum.photos/seed/20/600/400",
+      "imageHint": "irish coffee"
+    }
+  ]
 }
