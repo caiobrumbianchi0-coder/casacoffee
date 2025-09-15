@@ -119,6 +119,486 @@
       "description": "A warm and boozy Irish coffee.",
       "imageUrl": "https://picsum.photos/seed/20/600/400",
       "imageHint": "irish coffee"
+    },
+    {
+      "id": "cafe-latte",
+      "description": "A simple and classic cafe latte.",
+      "imageUrl": "https://picsum.photos/seed/21/600/400",
+      "imageHint": "cafe latte"
+    },
+    {
+      "id": "americano",
+      "description": "A shot of espresso diluted with hot water.",
+      "imageUrl": "https://picsum.photos/seed/22/600/400",
+      "imageHint": "americano coffee"
+    },
+    {
+      "id": "mocha",
+      "description": "A chocolate-flavored variant of a latte.",
+      "imageUrl": "https://picsum.photos/seed/23/600/400",
+      "imageHint": "mocha coffee"
+    },
+    {
+      "id": "ristretto",
+      "description": "A short shot of a more highly concentrated espresso coffee.",
+      "imageUrl": "https://picsum.photos/seed/24/600/400",
+      "imageHint": "ristretto shot"
+    },
+    {
+      "id": "espresso-panna",
+      "description": "Espresso shot with a dollop of whipped cream.",
+      "imageUrl": "https://picsum.photos/seed/25/600/400",
+      "imageHint": "espresso panna"
+    },
+    {
+      "id": "doppio",
+      "description": "A double shot of espresso.",
+      "imageUrl": "https://picsum.photos/seed/26/600/400",
+      "imageHint": "doppio espresso"
+    },
+    {
+      "id": "cafe-bombeado",
+      "description": "Coffee made with a French press.",
+      "imageUrl": "https://picsum.photos/seed/27/600/400",
+      "imageHint": "french press"
+    },
+    {
+      "id": "aeropress-classico",
+      "description": "Coffee brewed with an Aeropress device.",
+      "imageUrl": "https://picsum.photos/seed/28/600/400",
+      "imageHint": "aeropress coffee"
+    },
+    {
+      "id": "espresso-tonica",
+      "description": "Espresso and tonic water, a refreshing mix.",
+      "imageUrl": "https://picsum.photos/seed/29/600/400",
+      "imageHint": "espresso tonic"
+    },
+    {
+      "id": "frappuccino-caramelo",
+      "description": "A blended iced coffee drink with caramel.",
+      "imageUrl": "https://picsum.photos/seed/30/600/400",
+      "imageHint": "caramel frappuccino"
+    },
+    {
+      "id": "iced-americano",
+      "description": "Espresso shots topped with cold water to produce a light layer of crema.",
+      "imageUrl": "https://picsum.photos/seed/31/600/400",
+      "imageHint": "iced americano"
+    },
+    {
+      "id": "affogato",
+      "description": "A scoop of vanilla ice cream drowned in a shot of hot espresso.",
+      "imageUrl": "https://picsum.photos/seed/32/600/400",
+      "imageHint": "affogato dessert"
+    },
+    {
+      "id": "cold-brew-com-leite-de-coco",
+      "description": "Cold brew coffee mixed with coconut milk.",
+      "imageUrl": "https://picsum.photos/seed/33/600/400",
+      "imageHint": "coconut coffee"
+    },
+    {
+      "id": "limonada-com-cafe",
+      "description": "A surprising mix of lemonade and coffee.",
+      "imageUrl": "https://picsum.photos/seed/34/600/400",
+      "imageHint": "coffee lemonade"
+    },
+    {
+      "id": "shakerato",
+      "description": "An Italian iced coffee drink made by shaking espresso and ice.",
+      "imageUrl": "https://picsum.photos/seed/35/600/400",
+      "imageHint": "shakerato coffee"
+    },
+    {
+      "id": "iced-mocha-branco",
+      "description": "Iced latte with white chocolate sauce.",
+      "imageUrl": "https://picsum.photos/seed/36/600/400",
+      "imageHint": "iced mocha"
+    },
+    {
+      "id": "latte-macchiato",
+      "description": "Steamed milk stained with a shot of espresso.",
+      "imageUrl": "https://picsum.photos/seed/37/600/400",
+      "imageHint": "latte macchiato"
+    },
+    {
+      "id": "cappuccino-vienense",
+      "description": "Espresso with whipped cream.",
+      "imageUrl": "https://picsum.photos/seed/38/600/400",
+      "imageHint": "viennese coffee"
+    },
+    {
+      "id": "cortado",
+      "description": "Espresso cut with a small amount of warm milk.",
+      "imageUrl": "https://picsum.photos/seed/39/600/400",
+      "imageHint": "cortado coffee"
+    },
+    {
+      "id": "dalgona-coffee",
+      "description": "Whipped coffee cream on top of milk.",
+      "imageUrl": "https://picsum.photos/seed/40/600/400",
+      "imageHint": "dalgona coffee"
+    },
+    {
+      "id": "magic-coffee",
+      "description": "A double ristretto topped with steamed milk.",
+      "imageUrl": "https://picsum.photos/seed/41/600/400",
+      "imageHint": "magic coffee"
+    },
+    {
+      "id": "cafe-breve",
+      "description": "An American variation of a latte using steamed half-and-half.",
+      "imageUrl": "https://picsum.photos/seed/42/600/400",
+      "imageHint": "cafe breve"
+    },
+    {
+      "id": "piccolo-latte",
+      "description": "A small latte, a ristretto shot topped with steamed milk.",
+      "imageUrl": "https://picsum.photos/seed/43/600/400",
+      "imageHint": "piccolo latte"
+    },
+    {
+      "id": "mel-com-cafe",
+      "description": "Coffee with honey and foamed milk.",
+      "imageUrl": "https://picsum.photos/seed/44/600/400",
+      "imageHint": "honey coffee"
+    },
+    {
+      "id": "ganache-de-cafe",
+      "description": "Chocolate and coffee ganache.",
+      "imageUrl": "https://picsum.photos/seed/45/600/400",
+      "imageHint": "coffee ganache"
+    },
+    {
+      "id": "manteiga-de-cafe",
+      "description": "Flavored butter with coffee.",
+      "imageUrl": "https://picsum.photos/seed/46/600/400",
+      "imageHint": "coffee butter"
+    },
+    {
+      "id": "doce-de-leite-com-cafe",
+      "description": "Dulce de leche mixed with coffee.",
+      "imageUrl": "https://picsum.photos/seed/47/600/400",
+      "imageHint": "coffee dulce"
+    },
+    {
+      "id": "geleia-de-cafe",
+      "description": "A coffee-flavored jam.",
+      "imageUrl": "https://picsum.photos/seed/48/600/400",
+      "imageHint": "coffee jam"
+    },
+    {
+      "id": "creme-de-confeiteiro-de-cafe",
+      "description": "Coffee flavored pastry cream.",
+      "imageUrl": "https://picsum.photos/seed/49/600/400",
+      "imageHint": "coffee pastry"
+    },
+    {
+      "id": "caramelo-de-cafe",
+      "description": "A coffee-flavored caramel sauce.",
+      "imageUrl": "https://picsum.photos/seed/50/600/400",
+      "imageHint": "coffee caramel"
+    },
+    {
+      "id": "brigadeiro-de-cafe",
+      "description": "Brazilian chocolate truffle with coffee.",
+      "imageUrl": "https://picsum.photos/seed/51/600/400",
+      "imageHint": "coffee brigadeiro"
+    },
+    {
+      "id": "chantilly-de-cafe",
+      "description": "Whipped cream flavored with coffee.",
+      "imageUrl": "https://picsum.photos/seed/52/600/400",
+      "imageHint": "coffee whipped"
+    },
+    {
+      "id": "cafe-com-pimenta-e-chocolate",
+      "description": "Spicy coffee with chili and chocolate.",
+      "imageUrl": "https://picsum.photos/seed/53/600/400",
+      "imageHint": "spicy coffee"
+    },
+    {
+      "id": "latte-de-pistache",
+      "description": "A latte with pistachio flavor.",
+      "imageUrl": "https://picsum.photos/seed/54/600/400",
+      "imageHint": "pistachio latte"
+    },
+    {
+      "id": "cafe-com-agua-de-rosas",
+      "description": "Coffee with a hint of rose water.",
+      "imageUrl": "https://picsum.photos/seed/55/600/400",
+      "imageHint": "rose coffee"
+    },
+    {
+      "id": "golden-latte-com-cafe",
+      "description": "A turmeric latte with a shot of coffee.",
+      "imageUrl": "https://picsum.photos/seed/56/600/400",
+      "imageHint": "golden latte"
+    },
+    {
+      "id": "cafe-com-laranja-e-anis",
+      "description": "Coffee with orange peel and star anise.",
+      "imageUrl": "https://picsum.photos/seed/57/600/400",
+      "imageHint": "orange coffee"
+    },
+    {
+      "id": "latte-de-matcha-e-cafe",
+      "description": "A layered drink of matcha, milk, and espresso.",
+      "imageUrl": "https://picsum.photos/seed/58/600/400",
+      "imageHint": "dirty matcha"
+    },
+    {
+      "id": "cafe-com-alecrim-e-mel",
+      "description": "Coffee infused with rosemary and honey.",
+      "imageUrl": "https://picsum.photos/seed/59/600/400",
+      "imageHint": "rosemary coffee"
+    },
+    {
+      "id": "iced-latte-de-rosas",
+      "description": "Iced latte with rose syrup.",
+      "imageUrl": "https://picsum.photos/seed/60/600/400",
+      "imageHint": "iced rose"
+    },
+    {
+      "id": "panna-cotta-de-cafe",
+      "description": "An Italian dessert of sweetened cream thickened and flavored with coffee.",
+      "imageUrl": "https://picsum.photos/seed/61/600/400",
+      "imageHint": "coffee panna"
+    },
+    {
+      "id": "pudim-de-cafe",
+      "description": "A coffee-flavored flan.",
+      "imageUrl": "https://picsum.photos/seed/62/600/400",
+      "imageHint": "coffee flan"
+    },
+    {
+      "id": "brownie-de-cafe",
+      "description": "A rich chocolate brownie with coffee.",
+      "imageUrl": "https://picsum.photos/seed/63/600/400",
+      "imageHint": "coffee brownie"
+    },
+    {
+      "id": "creme-brulee-de-cafe",
+      "description": "Coffee-flavored crème brûlée.",
+      "imageUrl": "https://picsum.photos/seed/64/600/400",
+      "imageHint": "coffee brulee"
+    },
+    {
+      "id": "palha-italiana-de-cafe",
+      "description": "Italian straw candy with coffee.",
+      "imageUrl": "https://picsum.photos/seed/65/600/400",
+      "imageHint": "coffee candy"
+    },
+    {
+      "id": "semifrio-de-cafe",
+      "description": "A semi-frozen coffee dessert.",
+      "imageUrl": "https://picsum.photos/seed/66/600/400",
+      "imageHint": "frozen dessert"
+    },
+    {
+      "id": "cheesecake-de-cafe",
+      "description": "A cheesecake flavored with coffee.",
+      "imageUrl": "https://picsum.photos/seed/67/600/400",
+      "imageHint": "coffee cheesecake"
+    },
+    {
+      "id": "macarons-de-cafe",
+      "description": "Coffee-flavored macarons.",
+      "imageUrl": "https://picsum.photos/seed/68/600/400",
+      "imageHint": "coffee macarons"
+    },
+    {
+      "id": "bolo-formigueiro-com-cafe",
+      "description": "Brazilian 'anthill' cake with coffee.",
+      "imageUrl": "https://picsum.photos/seed/69/600/400",
+      "imageHint": "anthill cake"
+    },
+    {
+      "id": "rocambole-de-cafe",
+      "description": "A coffee-flavored swiss roll cake.",
+      "imageUrl": "https://picsum.photos/seed/70/600/400",
+      "imageHint": "swiss roll"
+    },
+    {
+      "id": "bolo-de-chocolate-com-calda-de-cafe",
+      "description": "Chocolate cake with coffee syrup.",
+      "imageUrl": "https://picsum.photos/seed/71/600/400",
+      "imageHint": "chocolate cake"
+    },
+    {
+      "id": "torta-mousse-de-cafe",
+      "description": "A coffee mousse pie.",
+      "imageUrl": "https://picsum.photos/seed/72/600/400",
+      "imageHint": "mousse pie"
+    },
+    {
+      "id": "bolo-de-fuba-com-cobertura-de-cafe",
+      "description": "Cornmeal cake with coffee icing.",
+      "imageUrl": "https://picsum.photos/seed/73/600/400",
+      "imageHint": "cornmeal cake"
+    },
+    {
+      "id": "torta-de-cafe-com-chantilly",
+      "description": "Coffee pie with whipped cream.",
+      "imageUrl": "https://picsum.photos/seed/74/600/400",
+      "imageHint": "coffee pie"
+    },
+    {
+      "id": "cuca-de-cafe",
+      "description": "German-style coffee crumble cake.",
+      "imageUrl": "https://picsum.photos/seed/75/600/400",
+      "imageHint": "crumble cake"
+    },
+    {
+      "id": "bolo-invertido-de-cafe-e-banana",
+      "description": "Upside-down cake with coffee and banana.",
+      "imageUrl": "https://picsum.photos/seed/76/600/400",
+      "imageHint": "upside-down cake"
+    },
+    {
+      "id": "costela-ao-molho-de-cafe",
+      "description": "Pork ribs with coffee sauce.",
+      "imageUrl": "https://picsum.photos/seed/77/600/400",
+      "imageHint": "pork ribs"
+    },
+    {
+      "id": "rub-de-cafe-para-carnes",
+      "description": "A dry rub for meats with coffee.",
+      "imageUrl": "https://picsum.photos/seed/78/600/400",
+      "imageHint": "meat rub"
+    },
+    {
+      "id": "vinagrete-de-cafe",
+      "description": "Coffee vinaigrette for salads.",
+      "imageUrl": "https://picsum.photos/seed/79/600/400",
+      "imageHint": "salad dressing"
+    },
+    {
+      "id": "chilli-com-carne-e-cafe",
+      "description": "Chili con carne with a hint of coffee.",
+      "imageUrl": "https://picsum.photos/seed/80/600/400",
+      "imageHint": "chili con"
+    },
+    {
+      "id": "sopa-de-cebola-com-toque-de-cafe",
+      "description": "Onion soup with a touch of coffee.",
+      "imageUrl": "https://picsum.photos/seed/81/600/400",
+      "imageHint": "onion soup"
+    },
+    {
+      "id": "file-mignon-ao-molho-de-cafe",
+      "description": "Filet mignon with coffee sauce.",
+      "imageUrl": "https://picsum.photos/seed/82/600/400",
+      "imageHint": "filet mignon"
+    },
+    {
+      "id": "cogumelos-salteados-com-cafe",
+      "description": "Sautéed mushrooms with coffee.",
+      "imageUrl": "https://picsum.photos/seed/83/600/400",
+      "imageHint": "sautéed mushrooms"
+    },
+    {
+      "id": "hamburguer-com-maionese-de-cafe",
+      "description": "Hamburger with coffee mayonnaise.",
+      "imageUrl": "https://picsum.photos/seed/84/600/400",
+      "imageHint": "hamburger sauce"
+    },
+    {
+      "id": "mingau-de-aveia-com-cafe",
+      "description": "Oatmeal porridge with coffee.",
+      "imageUrl": "https://picsum.photos/seed/85/600/400",
+      "imageHint": "oatmeal porridge"
+    },
+    {
+      "id": "barrinha-de-proteina-e-cafe",
+      "description": "Protein bars with coffee.",
+      "imageUrl": "https://picsum.photos/seed/86/600/400",
+      "imageHint": "protein bar"
+    },
+    {
+      "id": "cafe-a-prova-de-balas-bulletproof",
+      "description": "Bulletproof coffee with ghee and coconut oil.",
+      "imageUrl": "https://picsum.photos/seed/87/600/400",
+      "imageHint": "bulletproof coffee"
+    },
+    {
+      "id": "pudim-de-chia-com-cafe",
+      "description": "Chia pudding with coffee.",
+      "imageUrl": "https://picsum.photos/seed/88/600/400",
+      "imageHint": "chia pudding"
+    },
+    {
+      "id": "nice-cream-de-cafe",
+      "description": "Banana-based ice cream with coffee.",
+      "imageUrl": "https://picsum.photos/seed/89/600/400",
+      "imageHint": "banana ice"
+    },
+    {
+      "id": "muffins-fit-de-cafe-e-cacau",
+      "description": "Healthy muffins with coffee and cocoa.",
+      "imageUrl": "https://picsum.photos/seed/90/600/400",
+      "imageHint": "healthy muffins"
+    },
+    {
+      "id": "bolinhas-energeticas-de-cafe",
+      "description": "Energy balls with coffee and oats.",
+      "imageUrl": "https://picsum.photos/seed/91/600/400",
+      "imageHint": "energy balls"
+    },
+    {
+      "id": "crepioca-de-cafe",
+      "description": "Tapioca crepe with egg and coffee.",
+      "imageUrl": "https://picsum.photos/seed/92/600/400",
+      "imageHint": "tapioca crepe"
+    },
+    {
+      "id": "black-russian",
+      "description": "A cocktail of vodka and coffee liqueur.",
+      "imageUrl": "https://picsum.photos/seed/93/600/400",
+      "imageHint": "black russian"
+    },
+    {
+      "id": "white-russian",
+      "description": "A Black Russian with cream.",
+      "imageUrl": "https://picsum.photos/seed/94/600/400",
+      "imageHint": "white russian"
+    },
+    {
+      "id": "revolver-cocktail",
+      "description": "A bourbon and coffee liqueur cocktail.",
+      "imageUrl": "https://picsum.photos/seed/95/600/400",
+      "imageHint": "bourbon cocktail"
+    },
+    {
+      "id": "carajillo",
+      "description": "A Spanish coffee drink with Licor 43.",
+      "imageUrl": "https://picsum.photos/seed/96/600/400",
+      "imageHint": "carajillo drink"
+    },
+    {
+      "id": "negroni-com-cafe",
+      "description": "A classic Negroni with coffee-infused Campari.",
+      "imageUrl": "https://picsum.photos/seed/97/600/400",
+      "imageHint": "coffee negroni"
+    },
+    {
+      "id": "cold-brew-gin-tonica",
+      "description": "A mix of cold brew, gin, and tonic water.",
+      "imageUrl": "https://picsum.photos/seed/98/600/400",
+      "imageHint": "gin tonic"
+    },
+    {
+      "id": "old-fashioned-de-cafe",
+      "description": "A coffee-flavored Old Fashioned cocktail.",
+      "imageUrl": "https://picsum.photos/seed/99/600/400",
+      "imageHint": "old fashioned"
+    },
+    {
+      "id": "batida-de-cafe",
+      "description": "A Brazilian cocktail with cachaça and coffee.",
+      "imageUrl": "https://picsum.photos/seed/100/600/400",
+      "imageHint": "brazilian cocktail"
     }
   ]
 }
