@@ -13,10 +13,10 @@
       "imageHint": "espresso macchiato"
     },
     {
-      "id": "iced-latte",
-      "description": "A refreshing iced latte in a tall glass.",
-      "imageUrl": "https://picsum.photos/seed/3/600/400",
-      "imageHint": "iced latte"
+      "id": "cafe-latte",
+      "description": "A simple and classic cafe latte.",
+      "imageUrl": "https://i.imgur.com/gIsf9Ty.jpeg",
+      "imageHint": "cafe latte"
     },
     {
       "id": "cold-brew",
@@ -121,10 +121,10 @@
       "imageHint": "irish coffee"
     },
     {
-      "id": "cafe-latte",
-      "description": "A simple and classic cafe latte.",
-      "imageUrl": "https://picsum.photos/seed/21/600/400",
-      "imageHint": "cafe latte"
+      "id": "iced-latte",
+      "description": "A refreshing iced latte in a tall glass.",
+      "imageUrl": "https://picsum.photos/seed/3/600/400",
+      "imageHint": "iced latte"
     },
     {
       "id": "americano",
