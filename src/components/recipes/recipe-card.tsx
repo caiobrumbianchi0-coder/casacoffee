@@ -17,14 +17,14 @@ export default function RecipeCard({ recipe }: RecipeCardProps) {
     <Link href={`/recipes/${recipe.id}`} className="block w-64 flex-shrink-0 group">
       <Card className="overflow-hidden h-full transition-all duration-300 ease-in-out group-hover:shadow-lg group-hover:-translate-y-1 border-transparent hover:border-primary/20">
         <CardHeader className="p-0">
-          <div className="aspect-w-4 aspect-h-3">
+          <div className="relative h-40">
             <Image
               src={imageUrl}
               alt={recipe.name}
-              width={600}
-              height={400}
-              className="object-cover w-full h-full transition-transform duration-300 ease-in-out group-hover:scale-105"
+              fill
+              className="object-cover transition-transform duration-300 ease-in-out group-hover:scale-105"
               data-ai-hint={imageHint}
+              sizes="256px"
             />
           </div>
         </CardHeader>
