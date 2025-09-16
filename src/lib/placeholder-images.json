@@ -381,7 +381,7 @@
     {
       "id": "creme-brulee-de-cafe",
       "description": "Coffee-flavored crème brûlée.",
-      "imageUrl": "https://picsum.photos/seed/64/600/400",
+      "imageUrl": "https://i.imgur.com/QTu89Om.jpeg",
       "imageHint": "coffee brulee"
     },
     {
@@ -602,4 +602,5 @@
     }
   ]
 }
+    
     
