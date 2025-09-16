@@ -441,7 +441,7 @@
     {
       "id": "torta-de-cafe-com-chantilly",
       "description": "Coffee pie with whipped cream.",
-      "imageUrl": "https://picsum.photos/seed/74/600/400",
+      "imageUrl": "https://i.imgur.com/bHsMdzv.png",
       "imageHint": "coffee pie"
     },
     {
@@ -602,4 +602,5 @@
     }
   ]
 }
+    
     
