@@ -121,9 +121,9 @@
       "imageHint": "irish coffee"
     },
     {
-      "id": "iced-latte",
-      "description": "A refreshing iced latte in a tall glass.",
-      "imageUrl": "https://picsum.photos/seed/3/600/400",
+      "id": "iced-caramel-latte",
+      "description": "A refreshing iced latte with caramel sauce.",
+      "imageUrl": "https://i.imgur.com/2DzdTX1.jpeg",
       "imageHint": "iced latte"
     },
     {
