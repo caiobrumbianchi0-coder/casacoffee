@@ -219,7 +219,7 @@
     {
       "id": "latte-macchiato",
       "description": "Steamed milk stained with a shot of espresso.",
-      "imageUrl": "https://picsum.photos/seed/37/600/400",
+      "imageUrl": "https://i.imgur.com/siQyWHT.jpeg",
       "imageHint": "latte macchiato"
     },
     {
@@ -602,3 +602,4 @@
     }
   ]
 }
+    
