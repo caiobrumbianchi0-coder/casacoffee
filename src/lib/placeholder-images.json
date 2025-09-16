@@ -27,7 +27,7 @@
     {
       "id": "flat-white",
       "description": "A creamy flat white coffee.",
-      "imageUrl": "https://i.imgur.com/l5MiM9r.jpeg",
+      "imageUrl": "https://picsum.photos/seed/5/600/400",
       "imageHint": "flat white"
     },
     {
@@ -171,7 +171,7 @@
     {
       "id": "espresso-tonica",
       "description": "Espresso and tonic water, a refreshing mix.",
-      "imageUrl": "https://picsum.photos/seed/29/600/400",
+      "imageUrl": "https://i.imgur.com/l5MiM9r.jpeg",
       "imageHint": "espresso tonic"
     },
     {
