@@ -573,7 +573,7 @@
     },
     {
       "id": "carajillo",
-      "description": "A Spanish coffee drink with Licor 43.",
+      "description": "A Spanish coffee drink with Licor 43. ",
       "imageUrl": "https://i.imgur.com/qp56WlO.jpeg",
       "imageHint": "carajillo drink"
     },
@@ -622,7 +622,7 @@
     {
       "id": "caramel-macchiato-gelado",
       "description": "Iced espresso with vanilla-flavored milk, topped with caramel.",
-      "imageUrl": "https://picsum.photos/seed/caramelmacchiato/600/400",
+      "imageUrl": "https://i.imgur.com/t7mii8Y.jpeg",
       "imageHint": "caramel macchiato"
     },
     {
