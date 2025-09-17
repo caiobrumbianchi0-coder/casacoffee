@@ -14,6 +14,8 @@ import {
   Star,
 } from 'lucide-react';
 
+const vaporizedMilkTip = 'Dica para o leite: Se não tiver um vaporizador, você pode aquecer o leite em uma panela até quase ferver (sem deixar ferver). Depois, bata com um mixer de mão ou coloque em um pote com tampa e agite vigorosamente por 30 segundos para criar a espuma.';
+
 export const categories: Category[] = [
   {
     id: 'classicos-do-cafe',
@@ -35,6 +37,7 @@ export const categories: Category[] = [
         preparation: [
           'Primeiramente, extraia um espresso forte de 30 ml diretamente em sua xícara de cappuccino preferida.',
           'Em seguida, vaporize 120 ml de leite integral até que ele atinja uma textura cremosa e uma espuma densa no topo. A temperatura ideal é entre 65-70°C.',
+          vaporizedMilkTip,
           'Incline a xícara e despeje o leite vaporizado sobre o espresso, usando uma colher para segurar a espuma mais espessa no início.',
           'Finalize adicionando a espuma restante no topo da bebida, formando uma cúpula branca.',
           'Para um toque especial, polvilhe uma fina camada de cacau em pó sobre a espuma antes de servir.',
@@ -53,6 +56,7 @@ export const categories: Category[] = [
         preparation: [
           'Extraia um shot de 30 ml de espresso diretamente em uma xícara pequena de vidro ou cerâmica (demitasse).',
           'Com uma colher, adicione cuidadosamente uma pequena quantidade de espuma de leite bem densa no centro do espresso.',
+          vaporizedMilkTip,
           'A "mancha" (macchia) de leite deve ficar visível na superfície da crema do café.',
           'Sirva imediatamente para apreciar o contraste de temperatura e textura.',
         ],
@@ -71,6 +75,7 @@ export const categories: Category[] = [
         preparation: [
           'Extraia um shot de 30 ml de espresso em uma xícara ou copo grande (aproximadamente 240 ml).',
           'Vaporize 180 ml de leite até que fique cremoso e aveludado, com uma fina camada de microespuma no topo.',
+          vaporizedMilkTip,
           'Despeje o leite vaporizado sobre o espresso, criando uma bebida homogênea e cremosa.',
           'Se tiver habilidade, este é o momento ideal para praticar sua latte art!',
         ],
@@ -104,7 +109,7 @@ export const categories: Category[] = [
           'Despeje a calda de chocolate no fundo de uma xícara grande ou copo de vidro.',
           'Extraia um shot de espresso diretamente sobre a calda.',
           'Misture bem até que o chocolate esteja completamente dissolvido no café.',
-          'Vaporize o leite e despeje sobre a mistura de café com chocolate.',
+          'Vaporize o leite e despeje sobre a mistura de café com chocolate. ' + vaporizedMilkTip,
           'Se desejar, finalize com uma generosa porção de chantilly e decore com raspas de chocolate.',
         ],
       },
@@ -390,6 +395,7 @@ export const categories: Category[] = [
         preparation: [
           'Extraia um espresso duplo diretamente em uma xícara de cerâmica (aproximadamente 180ml).',
           'Vaporize o leite até obter uma textura sedosa e brilhante, com uma microespuma fina, sem bolhas grandes. A temperatura ideal é 65°C.',
+          vaporizedMilkTip,
           'Despeje o leite sobre o espresso de forma contínua e controlada, permitindo que o leite se misture com o café e a microespuma forme uma fina camada branca no topo.',
           'O resultado é uma bebida mais forte e intensa em sabor de café do que um latte, com uma textura aveludada.',
         ],
@@ -422,6 +428,7 @@ export const categories: Category[] = [
         ],
         preparation: [
           'Vaporize o leite criando uma quantidade generosa de espuma.',
+          vaporizedMilkTip,
           'Despeje o leite e a espuma em um copo alto de vidro e espere cerca de 30 segundos para que o leite e a espuma se separem, formando duas camadas distintas.',
           'Extraia o espresso.',
           'Despeje o espresso lentamente e com cuidado bem no centro da espuma. O café, mais denso que a espuma mas menos denso que o leite, formará uma terceira camada no meio.',
@@ -459,6 +466,7 @@ export const categories: Category[] = [
         preparation: [
           'Extraia um shot de espresso em um copo de vidro pequeno (aproximadamente 90-120 ml).',
           'Vaporize uma pequena quantidade de leite apenas para dar cremosidade, com pouquíssima espuma.',
+          vaporizedMilkTip,
           'Despeje o leite sobre o espresso na proporção de 1:1. O objetivo é "cortar" a intensidade do espresso, suavizando sua acidez sem mascarar o sabor.',
           'A bebida deve ser equilibrada e servida morna.',
         ],
@@ -492,6 +500,7 @@ export const categories: Category[] = [
         preparation: [
           'Extraia um ristretto duplo (um shot duplo, mas com extração mais curta) em uma xícara de cappuccino de 150 ml.',
           'Vaporize o leite até obter uma textura perfeitamente sedosa e brilhante, ideal para latte art.',
+          vaporizedMilkTip,
           'Despeje o leite sobre o ristretto. A proporção de café para leite é maior que a de um flat white, resultando em um sabor de café pronunciado, porém equilibrado pela doçura do leite.',
         ],
       },
@@ -506,6 +515,7 @@ export const categories: Category[] = [
           'O "half-and-half" é uma mistura meio a meio de leite integral e creme de leite, resultando em uma bebida mais rica e cremosa.',
           'Extraia um espresso duplo em uma xícara de cappuccino.',
           'Vaporize a mistura de leite e creme até ficar quente e espumosa.',
+          vaporizedMilkTip,
           'Despeje sobre o espresso como faria com um cappuccino. A espuma será mais densa e rica.',
         ],
       },
@@ -519,6 +529,7 @@ export const categories: Category[] = [
         preparation: [
           'Extraia um shot de ristretto em um copo de vidro pequeno ou demitasse (90-100ml).',
           'Vaporize o leite até obter uma textura aveludada e cremosa, como para um latte.',
+          vaporizedMilkTip,
           'Despeje o leite sobre o ristretto, preenchendo o copo.',
           'É basicamente um "baby latte", perfeito para quem quer o sabor de um latte com menos volume de leite e mais intensidade de café.',
         ],
@@ -539,6 +550,7 @@ export const categories: Category[] = [
           'Coloque o mel no fundo da sua xícara preferida.',
           'Extraia o shot de espresso diretamente sobre o mel. Mexa bem para garantir que o mel se dissolva completamente.',
           'Vaporize o leite até ficar cremoso e com uma boa camada de espuma.',
+          vaporizedMilkTip,
           'Despeje o leite sobre a mistura de café e mel.',
           'Finalize polvilhando um pouco de canela em pó sobre a espuma.',
         ],
@@ -783,6 +795,7 @@ export const categories: Category[] = [
           'Comece despejando o xarope de lavanda no fundo da sua xícara ou copo.',
           'Extraia um shot de espresso diretamente sobre o xarope e misture bem.',
           'Vaporize o leite até obter uma textura cremosa e aveludada, perfeita para um latte.',
+          vaporizedMilkTip,
           'Despeje o leite vaporizado sobre a mistura de espresso e lavanda, criando uma bebida suave e floral.',
           'Decore com algumas flores de lavanda secas na espuma para um charme extra.',
         ],
@@ -822,6 +835,7 @@ export const categories: Category[] = [
           'Em sua xícara, coloque a pasta ou xarope de pistache.',
           'Extraia o espresso duplo diretamente sobre a pasta e misture bem até dissolver.',
           'Vaporize o leite até que fique cremoso e com uma microespuma sedosa.',
+          vaporizedMilkTip,
           'Despeje o leite vaporizado sobre a mistura de café e pistache.',
           'Finalize decorando com pistaches torrados e picados por cima da espuma.',
         ],
@@ -841,6 +855,7 @@ export const categories: Category[] = [
         preparation: [
           'Em uma xícara, misture o shot de espresso recém-extraído com a água de rosas.',
           'Vaporize o leite até obter uma espuma cremosa.',
+          vaporizedMilkTip,
           'Despeje o leite sobre o café aromatizado, como faria em um latte.',
           'Se desejar, decore a superfície com algumas pétalas de rosa secas para um visual elegante e um aroma extra.',
         ],
@@ -971,6 +986,7 @@ export const categories: Category[] = [
         preparation: [
           'Em uma panela pequena, aqueça o purê de abóbora, o açúcar e as especiarias em fogo baixo por 2 minutos, mexendo sempre.',
           'Adicione o leite à panela e aqueça bem, sem deixar ferver. Use um mixer de mão para espumar, se desejar.',
+          vaporizedMilkTip,
           'Extraia o espresso em uma xícara grande.',
           'Despeje a mistura de leite com abóbora sobre o espresso.',
           'Cubra com chantilly e polvilhe mais um pouco do pumpkin pie spice.',
@@ -1055,6 +1071,7 @@ export const categories: Category[] = [
           'No fundo de uma xícara grande, coloque a calda de chocolate e o xarope de hortelã.',
           'Extraia o espresso diretamente sobre as caldas e misture bem.',
           'Vaporize o leite até ficar cremoso e despeje sobre a mistura.',
+          vaporizedMilkTip,
           'Cubra com chantilly e decore com raspas de chocolate ou pedacinhos de bala de hortelã.',
         ],
       },
@@ -1073,6 +1090,7 @@ export const categories: Category[] = [
           'Você pode comprar o concentrado de chá chai ou fazer o seu, infusionando chá preto com canela, cardamomo, cravo, gengibre e anis.',
           'Em uma leiteira, aqueça o concentrado de chai com o leite, mexendo bem.',
           'Vaporize a mistura usando o bico da sua máquina de espresso para criar uma espuma cremosa.',
+          vaporizedMilkTip,
           'Despeje na sua xícara favorita e polvilhe um pouco de canela em pó por cima.',
         ],
       },
@@ -1111,8 +1129,9 @@ export const categories: Category[] = [
         ],
         preparation: [
           'Em uma tigela pequena, peneire o matcha para evitar grumos.',
-          'Adicione o açúcar e a água quente. Com um batedor de bambu (chasen) ou um pequeno mixer, bata vigorosamente até dissolver completamente e formar uma espuma fina.',
+          'Adicione o açúcar e a água quente. Com um batedor de bambu (chasen) or um pequeno mixer, bata vigorosamente até dissolver completamente e formar uma espuma fina.',
           'Aqueça e vaporize o leite separadamente.',
+          vaporizedMilkTip,
           'Despeje a mistura de matcha em uma xícara e, em seguida, adicione o leite vaporizado.',
         ],
       },
@@ -1154,6 +1173,7 @@ export const categories: Category[] = [
           'Despeje o xarope Cinnamon Dolce no fundo de uma xícara.',
           'Extraia o espresso por cima e mexa.',
           'Adicione o leite vaporizado.',
+          vaporizedMilkTip,
           'Cubra com chantilly e uma pitada de canela em pó.',
         ],
       },
