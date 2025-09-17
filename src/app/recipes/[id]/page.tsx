@@ -9,6 +9,7 @@ import FavoriteButton from '@/components/recipes/favorite-button';
 import { Clock, Users, ChevronLeft } from 'lucide-react';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
+import AIQuestionAsker from '@/components/recipes/ai-question-asker';
 
 export default function RecipePage({ params }: { params: { id: string } }) {
   const recipe = getRecipeById(params.id);
@@ -33,7 +34,7 @@ export default function RecipePage({ params }: { params: { id: string } }) {
           </Link>
         </div>
 
-        <Card className="overflow-hidden shadow-lg">
+        <Card className="overflow-hidden shadow-lg mb-8">
           <div className="grid md:grid-cols-5">
             <div className="md:col-span-2">
               <Image
@@ -87,6 +88,9 @@ export default function RecipePage({ params }: { params: { id: string } }) {
             </div>
           </div>
         </Card>
+
+        <AIQuestionAsker recipe={recipe} />
+
       </div>
     </div>
   );
