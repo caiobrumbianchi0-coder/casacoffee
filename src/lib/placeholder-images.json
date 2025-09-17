@@ -600,22 +600,66 @@
       "description": "A Brazilian cocktail with cachaça and coffee.",
       "imageUrl": "https://i.imgur.com/E2eGEz7.jpeg",
       "imageHint": "brazilian cocktail"
+    },
+    {
+      "id": "pumpkin-spice-latte",
+      "description": "The famous fall-themed latte.",
+      "imageUrl": "https://picsum.photos/seed/pumpkin/600/400",
+      "imageHint": "pumpkin latte"
+    },
+    {
+      "id": "strawberry-acai-refresher",
+      "description": "A refreshing strawberry and açaí drink with coconut milk.",
+      "imageUrl": "https://picsum.photos/seed/pinkdrink/600/400",
+      "imageHint": "pink drink"
+    },
+    {
+      "id": "java-chip-frappuccino",
+      "description": "A blended coffee drink with chocolate chips and mocha sauce.",
+      "imageUrl": "https://picsum.photos/seed/javachip/600/400",
+      "imageHint": "java chip"
+    },
+    {
+      "id": "caramel-macchiato-gelado",
+      "description": "Iced espresso with vanilla-flavored milk, topped with caramel.",
+      "imageUrl": "https://picsum.photos/seed/caramelmacchiato/600/400",
+      "imageHint": "caramel macchiato"
+    },
+    {
+      "id": "peppermint-mocha",
+      "description": "A holiday classic with mocha and peppermint flavor.",
+      "imageUrl": "https://picsum.photos/seed/peppermint/600/400",
+      "imageHint": "peppermint mocha"
+    },
+    {
+      "id": "chai-latte",
+      "description": "Black tea infused with spices, steamed with milk.",
+      "imageUrl": "https://picsum.photos/seed/chailatte/600/400",
+      "imageHint": "chai latte"
+    },
+    {
+      "id": "iced-white-chocolate-mocha",
+      "description": "Iced espresso with white chocolate sauce and milk.",
+      "imageUrl": "https://picsum.photos/seed/whitemocha/600/400",
+      "imageHint": "white mocha"
+    },
+    {
+      "id": "matcha-green-tea-latte",
+      "description": "Sweetened matcha green tea with steamed milk.",
+      "imageUrl": "https://picsum.photos/seed/matchalatte/600/400",
+      "imageHint": "matcha latte"
+    },
+    {
+      "id": "dragon-drink",
+      "description": "A vibrant drink with mango, dragon fruit, and coconut milk.",
+      "imageUrl": "https://picsum.photos/seed/dragondrink/600/400",
+      "imageHint": "dragon drink"
+    },
+    {
+      "id": "cinnamon-dolce-latte",
+      "description": "Espresso with cinnamon dolce flavored syrup and steamed milk.",
+      "imageUrl": "https://picsum.photos/seed/cinnamonlatte/600/400",
+      "imageHint": "cinnamon latte"
     }
   ]
 }
-    
-    
-    
-
-    
-
-    
-
-    
-
-
-
-
-
-
-
