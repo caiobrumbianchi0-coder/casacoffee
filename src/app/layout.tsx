@@ -17,7 +17,7 @@ const playfairDisplay = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Bean Bistro",
+  title: "CasaCoffee",
   description:
     "200 Receitas com Café – Cardápio Completo para Coffee Lovers",
 };

@@ -6,7 +6,6 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Separator } from '@/components/ui/separator';
 import { Badge } from '@/components/ui/badge';
 import FavoriteButton from '@/components/recipes/favorite-button';
-import AITipGenerator from '@/components/recipes/ai-tip-generator';
 import { Clock, Users, ChevronLeft } from 'lucide-react';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
@@ -84,8 +83,6 @@ export default function RecipePage({ params }: { params: { id: string } }) {
                     </ol>
                   </div>
                 </div>
-                <Separator className="my-8" />
-                <AITipGenerator recipe={recipe} />
               </CardContent>
             </div>
           </div>

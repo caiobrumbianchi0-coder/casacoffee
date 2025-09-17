@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useCallback } from 'react';
 
-const FAVORITES_KEY = 'bean-bistro-favorites';
+const FAVORITES_KEY = 'casacoffee-favorites';
 
 const getFavorites = (): string[] => {
   if (typeof window === 'undefined') {
