@@ -1927,9 +1927,9 @@ export const categories: Category[] = [
           'Gelo',
         ],
         preparation: [
-          'Existem duas formas populares: a simples e a "shakeado".',
-          'Simples: Encha um copo baixo com gelo. Despeje o Licor 43 e, em seguida, o espresso quente por cima. Mexa e sirva.',
-          'Shakeado (mais cremoso): Em uma coqueteleira com gelo, adicione o Licor 43 e o espresso quente. Agite vigorosamente até gelar bem.',
+          'Existem duas formas populares de preparo: a simples e a batida em coqueteleira.',
+          'Método simples: Encha um copo baixo com gelo. Despeje o Licor 43 e, em seguida, o espresso quente por cima. Mexa e sirva.',
+          'Método batido (mais cremoso): Em uma coqueteleira com gelo, adicione o Licor 43 e o espresso quente. Agite vigorosamente até gelar bem.',
           'Coe para um copo baixo com gelo fresco. A agitação cria uma espuma agradável.',
         ],
       },
