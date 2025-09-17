@@ -9,7 +9,6 @@ import FavoriteButton from '@/components/recipes/favorite-button';
 import { Clock, Users, ChevronLeft } from 'lucide-react';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
-import AIQuestionAsker from '@/components/recipes/ai-question-asker';
 
 export default function RecipePage({ params }: { params: { id: string } }) {
   const recipe = getRecipeById(params.id);
@@ -88,8 +87,6 @@ export default function RecipePage({ params }: { params: { id: string } }) {
             </div>
           </div>
         </Card>
-
-        <AIQuestionAsker recipe={recipe} />
 
       </div>
     </div>
