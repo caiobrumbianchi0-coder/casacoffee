@@ -1,14 +1,21 @@
 import { notFound } from 'next/navigation';
 import Image from 'next/image';
-import { getRecipeById } from '@/lib/recipe-data';
+import { getRecipeById, categories } from '@/lib/recipe-data';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Separator } from '@/components/ui/separator';
 import { Badge } from '@/components/ui/badge';
 import FavoriteButton from '@/components/recipes/favorite-button';
 import { Clock, Users, ChevronLeft } from 'lucide-react';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
+
+// Gera as páginas para todas as receitas no momento do build
+export async function generateStaticParams() {
+  const allRecipes = categories.flatMap(category => category.recipes);
+  return allRecipes.map((recipe) => ({
+    id: recipe.id,
+  }));
+}
 
 export default function RecipePage({ params }: { params: { id: string } }) {
   const recipe = getRecipeById(params.id);
